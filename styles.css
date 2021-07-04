@@ -1,0 +1,152 @@
+
+#heading
+{
+font-weight:700px;
+color:purple;
+font-size:450%; 
+padding-top: 3rem;
+margin-left: 5rem;
+width: 450px;
+padding: 20px;
+margin:7rem;
+}
+#heading2{
+  color:purple;
+    position:relative;
+    bottom:500px;
+    border-radius:4% 5%;
+    width:470px;
+   padding: 20px;
+   margin:7rem;
+   font-family: sans-serif;
+   font-style: normal;
+}
+h1{
+    color:blueviolet;
+    font-weight: bolder;
+    position:relative;
+    left:100px;
+    bottom:400px;
+}
+h3{
+    color: seashell;
+    float: inline-end;
+    position:relative;
+    left:110px;
+    bottom:60px;
+
+}
+h4{
+    color: violet; 
+    position:relative;
+    left:110px;
+    bottom:70px;;
+}
+h5{
+    color:darkmagenta;
+    position:relative;
+    bottom:200px;
+}
+
+.rating1{
+    background-color: thistle;
+    color:blueviolet;
+    position:relative;
+    left:800px;
+    bottom:970px;
+   text-align: center;
+font-family:sans-serif ;
+font-weight: bold;
+width: 320px;
+height:55px;
+border-radius:4% 3%;
+
+}
+.rating2{
+    background-color: thistle;
+    color:blueviolet;
+    position:relative;
+    left:900px;
+bottom:950px;
+font-family:sans-serif ;
+font-weight: bold;
+width: 320px;
+height:55px;
+display:inline-block;
+border-radius:4% 3%;
+text-align: center;
+}
+.rating3{
+    background-color: thistle;
+    color:blueviolet;
+    position:relative;
+    left:1000px;
+    bottom:930px;
+    text-align: center;
+  font-family:sans-serif ;
+  font-weight: bold;
+  width: 320px;
+  height:55px;
+
+border-radius:4% 3%;
+}
+.box{
+    background-color:purple;
+    position: relative;
+    left:125px;
+bottom:850px;
+    
+    border-radius:4% 5%;
+     width: 320px;
+    padding: 20px;
+    
+    margin:7rem;
+    
+}
+.box1{
+    background-color: purple;
+    position: relative;
+    left:570px;
+ bottom:1270px;
+    
+  float:left;
+    border-radius:4% 5%;
+     width: 320px;
+     padding: 10px;
+    
+    margin:4rem
+}
+    .box2{
+        background-color: purple;
+        position: relative;
+        left:550px;
+        bottom:1170px;
+        float:left;
+        padding-right: 300px;
+        border-radius:4% 5%;
+        width: 320px;
+        padding: 10px;
+        margin:0rem;
+    }
+
+#comment{
+color: seashell;
+    display: inline;
+    position:relative;
+    bottom:50px;
+}
+.photo{
+border-radius: 100%;
+position:relative;
+left:40px;
+top:10px;
+height:50px;
+}
+ .bottomimg{
+      position:relative;
+      left:500px;
+      bottom:2090px;
+      height:800px;
+  }
+ 
+  
